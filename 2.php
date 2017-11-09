@@ -1,1 +1,2 @@
-echo "TortoiseGit New File"
+echo "TortoiseGit New File ";
+echo "modify";
